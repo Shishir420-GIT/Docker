@@ -41,7 +41,7 @@ docker rm <conatiner id>
 docker rm $(docker ps -aq)
 
 
-
+#this is a command file
 
 #Check and Image exists or not
 
